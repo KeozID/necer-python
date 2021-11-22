@@ -35,12 +35,12 @@ config_location_misc_external_executor = 'content/scripts/miscellaneous/external
 #About_Content_Location
 
 config_location_about = 'about.py'
-config_about_creator = 'KeozID'
+config_about_creator = 'urname'
 config_about_build = 'v2.0'
-config_link_about_youtube = 'https://www.youtube.com/channel/UClZtj4AsnhmR2sakZe_q9MQ'
-config_link_about_instagram = 'https://www.instagram.com/keoz_id/'
+config_link_about_youtube = ''
+config_link_about_instagram = ''
 config_link_about_facebook = ''
-config_link_about_github = 'https://github.com/KeozID'
+config_link_about_github = ''
 
 
 
